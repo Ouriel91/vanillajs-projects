@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">פאזל מספרים</string>
+    <string name="moves">צעדים:</string>
+    <string name="start_restart_game">משחק חוזר</string>
+    <string name="finish_game">לחץ לסיום המשחק</string>
+    <string name="unfinished_game">המשחק לא נגמר, המשך לסדר את הקוביות</string>
+    <string name="start_game">לחץ על התחל לשחק</string>
+    <string name="well_done">כל הכבוד!!!</string>
+    <string name="won_game">ניצחת את המשחק עם</string>
+    <string name="with_moves">צעדים</string>
+    <string name="minutes">דקות</string>
+    <string name="to_main_menu">לתפריט הראשי</string>
+    <string name="to_high_scores">לטבלת השיאים</string>
+    <string name="easy_level">שלב קל</string>
+    <string name="medium_level">שלב בינוני</string>
+    <string name="hard_level">שלב קשה</string>
+    <string name="play_game">שחק</string>
+    <string name="move_to_classic_puzzle">פאזל קלאסי</string>
+    <string name="move_to_high_scores">טבלת השיאים</string>
+    <string name="enter_your_name">הכנס את שמך</string>
+    <string name="enter_name_please">בבקשה הכנס את שמך</string>
+    <string name="need_press_start">את/ה צריכ/ה ללחוץ על התחל משחק</string>
+    <string name="save_score">שמור שיא</string>
+    <string name="restart_game">התחל משחק מחדש</string>
+    <string name="move_to_image_puzzle">פאזל תמונה</string>
+    <string name="username">שם</string>
+    <string name="score">תוצאה</string>
+    <string name="date">תאריך</string>
+    <string name="insert_image">הכנס תמונה</string>
+    <string name="please_shuffle_cubes">אנא ערבב את הקוביות</string>
+    <string name="choose_level">בחר רמה</string>
+    <string name="intoduction_classic">שחק במשחק פאזל קלאסי על ידי העברת קוביה אל החלק הפנוי וסדר את המספרים משמאל לימין</string>
+    <string name="introduction_image">שחק במשחק פאזל תמונה על ידי הזזת קוביית תמונה אל החלק הפנוי וסדר את התמונה, תוכל לבחור בין צילום תמונה או תמונה שנמצאת אצלך במכשיר</string>
+    <string name="choose_table">בחר טבלה</string>
+    <string name="introduction_table">בחר את הטבלה בכל רמת קושי כדי לראות את תוצאתך בכל סוגי הפאזלים</string>
+    <string name="about">אודות</string>
+    <string name="make_contact">צור קשר</string>
+    <string name="all_copyrights_reserved">כל הזכויות שמורות לאוריאל אוחיון</string>
+    <string name="send_mail_with">שלח מייל עם:</string>
+    <string name="are_you_sure">אתה בטוח שאתה רוצה לצאת מהאפליקציה?</string>
+    <string name="yayyy">ישששש</string>
+    <string name="exit_from_app">יציאה מהאפליקציה</string>
+</resources>

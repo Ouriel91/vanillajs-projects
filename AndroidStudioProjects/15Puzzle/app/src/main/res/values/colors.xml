@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="number_color">#000000</color>
+    <color name="game_bg_color3x3">#f5b179</color>
+    <color name="game_bg_color4x4">#b39175</color>
+    <color name="game_bg_color5x5">#e1cebe</color>
+
+    <color name="shuffle_cubes_color">#dc8f31</color>
+    <color name="shuffle_cubes_color_pressed">#e2701f</color>
+    <color name="finish_color">#5031dc</color>
+    <color name="finish_color_pressed">#1717df</color>
+
+
+    <color name="red_button">#ea4b35</color>
+    <color name="blue_button">#217fbc</color>
+    <color name="green_button">#1bae5d</color>
+    <color name="gold_button">#fdc7bb0a</color>
+</resources>

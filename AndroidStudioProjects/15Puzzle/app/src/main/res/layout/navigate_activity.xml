@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:background="@drawable/bg15puzzle">
+
+
+    <life.sabujak.roundedbutton.RoundedButton
+        android:id="@+id/move_to_classic_puzzle_btn"
+        android:layout_centerInParent="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:textSize="20dp"
+        android:text="@string/move_to_classic_puzzle"
+        android:textColor="#ffffff"
+        app:buttonGradientStartColor="#d9520f"
+        app:buttonGradientEndColor="#5e2001"
+        app:buttonCornerRadius="20dp"
+        />
+
+    <life.sabujak.roundedbutton.RoundedButton
+        android:id="@+id/move_to_image_puzzle_btn"
+        android:layout_below="@id/move_to_classic_puzzle_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:padding="10dp"
+        android:textSize="20dp"
+        android:text="@string/move_to_image_puzzle"
+        android:textColor="#ffffff"
+        app:buttonGradientStartColor="#d9520f"
+        app:buttonGradientEndColor="#5e2001"
+        app:buttonCornerRadius="20dp"
+        />
+
+    <life.sabujak.roundedbutton.RoundedButton
+        android:id="@+id/move_to_high_scores_btn"
+        android:layout_below="@id/move_to_image_puzzle_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:textSize="20dp"
+        android:text="@string/move_to_high_scores"
+        android:textColor="#ffffff"
+        app:buttonGradientStartColor="#d9520f"
+        app:buttonGradientEndColor="#5e2001"
+        app:buttonCornerRadius="20dp"
+        />
+
+</RelativeLayout>
